@@ -179,3 +179,10 @@ td {
     border-radius: 20px;
 }
 
+#greek{
+    list-style-type: lower-greek;
+}
+
+#roman{
+    list-style-type: lower-roman;
+}
